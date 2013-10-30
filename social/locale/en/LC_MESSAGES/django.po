@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-28 17:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: forms.py:9
+msgid "Импорт в VKontakte"
+msgstr "Import with VKontakte"
+
+#: forms.py:12
+msgid "Импорт в Facebook"
+msgstr "Import with Facebook"
+
+#: models.py:7 models.py:20
+msgid "Токен"
+msgstr "Token"
+
+#: models.py:9 models.py:22
+msgid "Group ID"
+msgstr ""
+
+#: models.py:12
+msgid "Токен доступа Facebook"
+msgstr "Facebook access token"
+
+#: models.py:13
+msgid "Токены доступа Facebook"
+msgstr "Facebook access tokens"
+
+#: models.py:16
+msgid "Facebook token"
+msgstr ""
+
+#: models.py:25
+msgid "Токен доступа Vkontakte"
+msgstr "VKontakte access token"
+
+#: models.py:26
+msgid "Токены доступа VKontakte"
+msgstr "VKontakte access tokens"
+
+#: models.py:29
+msgid "Vkontakte token"
+msgstr ""
